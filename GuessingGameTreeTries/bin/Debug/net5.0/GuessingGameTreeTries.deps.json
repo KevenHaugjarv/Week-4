@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GuessingGameTreeTries/1.0.0": {
+        "runtime": {
+          "GuessingGameTreeTries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuessingGameTreeTries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

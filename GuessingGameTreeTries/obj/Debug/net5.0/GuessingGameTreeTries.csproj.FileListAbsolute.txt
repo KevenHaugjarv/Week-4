@@ -1,0 +1,15 @@
+C:\Users\kasutaja\source\repos\LoopsAndRandomNumbers\GuessingGameTreeTries\bin\Debug\net5.0\GuessingGameTreeTries.exe
+C:\Users\kasutaja\source\repos\LoopsAndRandomNumbers\GuessingGameTreeTries\bin\Debug\net5.0\GuessingGameTreeTries.deps.json
+C:\Users\kasutaja\source\repos\LoopsAndRandomNumbers\GuessingGameTreeTries\bin\Debug\net5.0\GuessingGameTreeTries.runtimeconfig.json
+C:\Users\kasutaja\source\repos\LoopsAndRandomNumbers\GuessingGameTreeTries\bin\Debug\net5.0\GuessingGameTreeTries.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\LoopsAndRandomNumbers\GuessingGameTreeTries\bin\Debug\net5.0\GuessingGameTreeTries.dll
+C:\Users\kasutaja\source\repos\LoopsAndRandomNumbers\GuessingGameTreeTries\bin\Debug\net5.0\ref\GuessingGameTreeTries.dll
+C:\Users\kasutaja\source\repos\LoopsAndRandomNumbers\GuessingGameTreeTries\bin\Debug\net5.0\GuessingGameTreeTries.pdb
+C:\Users\kasutaja\source\repos\LoopsAndRandomNumbers\GuessingGameTreeTries\obj\Debug\net5.0\GuessingGameTreeTries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\LoopsAndRandomNumbers\GuessingGameTreeTries\obj\Debug\net5.0\GuessingGameTreeTries.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\LoopsAndRandomNumbers\GuessingGameTreeTries\obj\Debug\net5.0\GuessingGameTreeTries.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\LoopsAndRandomNumbers\GuessingGameTreeTries\obj\Debug\net5.0\GuessingGameTreeTries.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\LoopsAndRandomNumbers\GuessingGameTreeTries\obj\Debug\net5.0\GuessingGameTreeTries.dll
+C:\Users\kasutaja\source\repos\LoopsAndRandomNumbers\GuessingGameTreeTries\obj\Debug\net5.0\ref\GuessingGameTreeTries.dll
+C:\Users\kasutaja\source\repos\LoopsAndRandomNumbers\GuessingGameTreeTries\obj\Debug\net5.0\GuessingGameTreeTries.pdb
+C:\Users\kasutaja\source\repos\LoopsAndRandomNumbers\GuessingGameTreeTries\obj\Debug\net5.0\GuessingGameTreeTries.genruntimeconfig.cache
